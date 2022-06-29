@@ -1,0 +1,1 @@
+{"fact":"The Pilgrims were the first to introduce cats to North America.","length":63}
